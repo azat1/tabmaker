@@ -1,0 +1,8 @@
+C:\projects3\FastImageTabMaker\FastImageTabMaker\bin\Debug\FastImageTabMaker.exe
+C:\projects3\FastImageTabMaker\FastImageTabMaker\bin\Debug\FastImageTabMaker.pdb
+C:\projects3\FastImageTabMaker\FastImageTabMaker\obj\Debug\ResolveAssemblyReference.cache
+C:\projects3\FastImageTabMaker\FastImageTabMaker\obj\Debug\FastImageTabMaker.Form1.resources
+C:\projects3\FastImageTabMaker\FastImageTabMaker\obj\Debug\FastImageTabMaker.Properties.Resources.resources
+C:\projects3\FastImageTabMaker\FastImageTabMaker\obj\Debug\FastImageTabMaker.csproj.GenerateResource.Cache
+C:\projects3\FastImageTabMaker\FastImageTabMaker\obj\Debug\FastImageTabMaker.exe
+C:\projects3\FastImageTabMaker\FastImageTabMaker\obj\Debug\FastImageTabMaker.pdb
